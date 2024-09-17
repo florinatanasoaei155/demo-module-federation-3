@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Sales Report Q1",
+    "date": "2024-01-15",
+    "summary": "Overview of sales performance for the first quarter."
+  },
+  {
+    "id": "2",
+    "title": "Marketing Report Q1",
+    "date": "2024-01-30",
+    "summary": "Summary of marketing activities and outcomes for the first quarter."
+  },
+  {
+    "id": "3",
+    "title": "Customer Feedback Report",
+    "date": "2024-02-10",
+    "summary": "Analysis of customer feedback collected during the last quarter."
+  }
+]

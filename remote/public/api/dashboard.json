@@ -1,0 +1,7 @@
+{
+  "stats": [
+    { "name": "Active Users", "value": "1,234" },
+    { "name": "New Signups", "value": "123" },
+    { "name": "Revenue", "value": "$10,234" }
+  ]
+}
